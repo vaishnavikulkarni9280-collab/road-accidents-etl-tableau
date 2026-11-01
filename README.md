@@ -2,7 +2,7 @@
 
 An ETL project on state-wise road accident data for India (2018-2024).
 
-**Dashboard:** PASTE_YOUR_LINK_HERE
+**Dashboard:** https://public.tableau.com/app/profile/vaishnavi.kulkarni6683/viz/RoadAccidentsDashboard_17935234853090/RoadAccidentsinIndia2018-2024?publish=yes
 
 ## Tools
 Python, pandas, SQLAlchemy, PostgreSQL, SQL, Tableau Public
