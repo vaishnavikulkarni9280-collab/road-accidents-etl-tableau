@@ -1,0 +1,214 @@
+year,state_name,state_code,type_of_accident,cases,injured,died,deaths_per_100_cases
+2018,Andaman And Nicobar Islands,35,Road Accidents,254,260,19,7.5
+2018,Andhra Pradesh,28,Road Accidents,21008,22009,7584,36.1
+2018,Arunachal Pradesh,12,Road Accidents,229,243,163,71.2
+2018,Assam,18,Road Accidents,7180,6081,2712,37.8
+2018,Bihar,10,Road Accidents,9600,6679,6729,70.1
+2018,Chandigarh,4,Road Accidents,634,534,202,31.9
+2018,Chhattisgarh,22,Road Accidents,13865,12716,4593,33.1
+2018,Delhi,7,Road Accidents,13034,11280,3468,26.6
+2018,Goa,30,Road Accidents,3710,1502,264,7.1
+2018,Gujarat,24,Road Accidents,18414,17619,8040,43.7
+2018,Haryana,6,Road Accidents,11652,9819,5429,46.6
+2018,Himachal Pradesh,2,Road Accidents,3119,4992,1077,34.5
+2018,Jammu And Kashmir,1,Road Accidents,5997,7855,986,16.4
+2018,Jharkhand,20,Road Accidents,5394,3975,3542,65.7
+2018,Karnataka,29,Road Accidents,41707,51562,10990,26.4
+2018,Kerala,32,Road Accidents,40181,45458,4303,10.7
+2018,Lakshadweep,31,Road Accidents,3,3,1,33.3
+2018,Madhya Pradesh,23,Road Accidents,47469,51149,11427,24.1
+2018,Maharashtra,27,Road Accidents,29740,25102,13863,46.6
+2018,Manipur,14,Road Accidents,602,1046,135,22.4
+2018,Meghalaya,17,Road Accidents,258,232,196,76.0
+2018,Mizoram,15,Road Accidents,50,73,62,124.0
+2018,Nagaland,13,Road Accidents,50,90,35,70.0
+2018,Odisha,21,Road Accidents,11262,11389,5236,46.5
+2018,Puducherry,34,Road Accidents,1597,1727,226,14.2
+2018,Punjab,3,Road Accidents,6424,3339,4738,73.8
+2018,Rajasthan,8,Road Accidents,21743,21547,10320,47.5
+2018,Sikkim,11,Road Accidents,169,357,71,42.0
+2018,Tamil Nadu,33,Road Accidents,63920,74537,12216,19.1
+2018,Telangana,36,Road Accidents,22230,23613,6603,29.7
+2018,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,151,152,90,59.6
+2018,Tripura,16,Road Accidents,551,741,212,38.5
+2018,Uttar Pradesh,9,Road Accidents,36855,22322,22541,61.2
+2018,Uttarakhand,5,Road Accidents,1469,1583,1073,73.0
+2018,West Bengal,19,Road Accidents,11827,10839,5469,46.2
+2019,Andhra Pradesh,28,Road Accidents,20677,24619,7984,38.6
+2019,Arunachal Pradesh,12,Road Accidents,200,275,109,54.5
+2019,Assam,18,Road Accidents,8055,7081,3245,40.3
+2019,Bihar,10,Road Accidents,10007,7206,7205,72.0
+2019,Chandigarh,4,Road Accidents,608,550,208,34.2
+2019,Chhattisgarh,22,Road Accidents,13899,13089,5003,36.0
+2019,Delhi,7,Road Accidents,11202,9898,3016,26.9
+2019,Goa,30,Road Accidents,3440,1460,299,8.7
+2019,Gujarat,24,Road Accidents,16503,15976,7428,45.0
+2019,Haryana,6,Road Accidents,10937,9247,5269,48.2
+2019,Himachal Pradesh,2,Road Accidents,2896,4740,1124,38.8
+2019,Jammu And Kashmir,1,Road Accidents,5795,7517,1009,17.4
+2019,Jharkhand,20,Road Accidents,5217,3818,3801,72.9
+2019,Karnataka,29,Road Accidents,40644,50442,10951,26.9
+2019,Kerala,32,Road Accidents,39944,44467,4370,10.9
+2019,Lakshadweep,31,Road Accidents,1,1,0,0.0
+2019,Madhya Pradesh,23,Road Accidents,51641,53765,11856,23.0
+2019,Maharashtra,27,Road Accidents,27286,23289,14608,53.5
+2019,Manipur,14,Road Accidents,672,1055,156,23.2
+2019,Meghalaya,17,Road Accidents,236,287,176,74.6
+2019,Mizoram,15,Road Accidents,57,25,63,110.5
+2019,Nagaland,13,Road Accidents,26,59,22,84.6
+2019,Odisha,21,Road Accidents,11064,11177,5333,48.2
+2019,Puducherry,34,Road Accidents,1392,1619,147,10.6
+2019,Punjab,3,Road Accidents,6316,3726,4613,73.0
+2019,Rajasthan,8,Road Accidents,23478,22979,10563,45.0
+2019,Sikkim,11,Road Accidents,172,329,84,48.8
+2019,Tamil Nadu,33,Road Accidents,57228,67137,10525,18.4
+2019,Telangana,36,Road Accidents,21570,21999,6964,32.3
+2019,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,131,179,78,59.5
+2019,Tripura,16,Road Accidents,655,816,239,36.5
+2019,Uttar Pradesh,9,Road Accidents,37537,22251,23285,62.0
+2019,Uttarakhand,5,Road Accidents,1352,1457,867,64.1
+2019,West Bengal,19,Road Accidents,12233,11744,5724,46.8
+2020,Andaman And Nicobar Islands,35,Road Accidents,141,145,14,9.9
+2020,Andhra Pradesh,28,Road Accidents,17924,19675,7039,39.3
+2020,Arunachal Pradesh,12,Road Accidents,159,143,90,56.6
+2020,Assam,18,Road Accidents,6737,5065,2813,41.8
+2020,Bihar,10,Road Accidents,8639,7019,6698,77.5
+2020,Chandigarh,4,Road Accidents,314,296,106,33.8
+2020,Chhattisgarh,22,Road Accidents,11674,10549,4616,39.5
+2020,Delhi,7,Road Accidents,8374,6908,2392,28.6
+2020,Goa,30,Road Accidents,2375,875,224,9.4
+2020,Gujarat,24,Road Accidents,13407,11984,6200,46.2
+2020,Haryana,6,Road Accidents,9506,7627,4631,48.7
+2020,Himachal Pradesh,2,Road Accidents,2235,3208,864,38.7
+2020,Jammu And Kashmir,1,Road Accidents,4861,5924,731,15.0
+2020,Jharkhand,20,Road Accidents,4405,3295,3044,69.1
+2020,Karnataka,29,Road Accidents,34178,39492,9760,28.6
+2020,Kerala,32,Road Accidents,27799,30502,2977,10.7
+2020,Ladakh,37,Road Accidents,139,146,32,23.0
+2020,Lakshadweep,31,Road Accidents,1,1,0,0.0
+2020,Madhya Pradesh,23,Road Accidents,42396,41782,11665,27.5
+2020,Maharashtra,27,Road Accidents,22211,17165,12018,54.1
+2020,Manipur,14,Road Accidents,432,662,127,29.4
+2020,Meghalaya,17,Road Accidents,205,212,138,67.3
+2020,Mizoram,15,Road Accidents,47,45,53,112.8
+2020,Nagaland,13,Road Accidents,27,30,27,100.0
+2020,Odisha,21,Road Accidents,9817,8822,4738,48.3
+2020,Puducherry,34,Road Accidents,969,1019,145,15.0
+2020,Punjab,3,Road Accidents,5173,2881,3916,75.7
+2020,Rajasthan,8,Road Accidents,19121,16783,9252,48.4
+2020,Sikkim,11,Road Accidents,108,196,42,38.9
+2020,Tamil Nadu,33,Road Accidents,45484,50551,8059,17.7
+2020,Telangana,36,Road Accidents,19172,18661,6882,35.9
+2020,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,98,119,64,65.3
+2020,Tripura,16,Road Accidents,466,470,192,41.2
+2020,Uttar Pradesh,9,Road Accidents,28653,15982,19037,66.4
+2020,Uttarakhand,5,Road Accidents,1050,862,693,66.0
+2020,West Bengal,19,Road Accidents,10843,9556,5171,47.7
+2021,Andaman And Nicobar Islands,35,Road Accidents,117,97,22,18.8
+2021,Andhra Pradesh,28,Road Accidents,21556,21040,8186,38.0
+2021,Arunachal Pradesh,12,Road Accidents,261,266,173,66.3
+2021,Assam,18,Road Accidents,7069,5420,3014,42.6
+2021,Bihar,10,Road Accidents,9553,7946,7660,80.2
+2021,Chandigarh,4,Road Accidents,416,344,192,46.2
+2021,Chhattisgarh,22,Road Accidents,12395,10682,5413,43.7
+2021,Delhi,7,Road Accidents,9440,7978,2478,26.2
+2021,Goa,30,Road Accidents,2850,856,226,7.9
+2021,Gujarat,24,Road Accidents,15200,13722,7457,49.1
+2021,Haryana,6,Road Accidents,10049,7972,4983,49.6
+2021,Himachal Pradesh,2,Road Accidents,2408,3445,1032,42.9
+2021,Jammu And Kashmir,1,Road Accidents,5402,6856,804,14.9
+2021,Jharkhand,20,Road Accidents,4728,3227,3513,74.3
+2021,Karnataka,29,Road Accidents,34647,40754,10038,29.0
+2021,Kerala,32,Road Accidents,32759,36514,3429,10.5
+2021,Ladakh,37,Road Accidents,237,291,56,23.6
+2021,Lakshadweep,31,Road Accidents,4,6,1,25.0
+2021,Madhya Pradesh,23,Road Accidents,48219,47117,12480,25.9
+2021,Maharashtra,27,Road Accidents,26598,19676,13911,52.3
+2021,Manipur,14,Road Accidents,366,504,110,30.1
+2021,Meghalaya,17,Road Accidents,244,263,187,76.6
+2021,Mizoram,15,Road Accidents,64,28,64,100.0
+2021,Nagaland,13,Road Accidents,25,35,23,92.0
+2021,Odisha,21,Road Accidents,10983,9782,5081,46.3
+2021,Puducherry,34,Road Accidents,1049,1099,143,13.6
+2021,Punjab,3,Road Accidents,6097,3034,4516,74.1
+2021,Rajasthan,8,Road Accidents,20954,19357,10043,47.9
+2021,Sikkim,11,Road Accidents,122,178,64,52.5
+2021,Tamil Nadu,33,Road Accidents,55682,55996,15384,27.6
+2021,Telangana,36,Road Accidents,21315,20107,7557,35.5
+2021,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,140,171,76,54.3
+2021,Tripura,16,Road Accidents,478,546,194,40.6
+2021,Uttar Pradesh,9,Road Accidents,33711,19813,21792,64.6
+2021,Uttarakhand,5,Road Accidents,1405,1127,824,58.6
+2021,West Bengal,19,Road Accidents,11501,9796,5831,50.7
+2022,Andaman And Nicobar Islands,35,Road Accidents,141,136,19,13.5
+2022,Andhra Pradesh,28,Road Accidents,21070,21340,8293,39.4
+2022,Arunachal Pradesh,12,Road Accidents,215,177,152,70.7
+2022,Assam,18,Road Accidents,7028,5679,3060,43.5
+2022,Bihar,10,Road Accidents,10801,7068,8898,82.4
+2022,Chandigarh,4,Road Accidents,476,406,166,34.9
+2022,Chhattisgarh,22,Road Accidents,13091,11459,5890,45.0
+2022,Delhi,7,Road Accidents,11120,9426,2922,26.3
+2022,Goa,30,Road Accidents,3012,1071,274,9.1
+2022,Gujarat,24,Road Accidents,15777,15139,7634,48.4
+2022,Haryana,6,Road Accidents,10654,8353,5228,49.1
+2022,Himachal Pradesh,2,Road Accidents,2484,3891,979,39.4
+2022,Jammu And Kashmir,1,Road Accidents,6090,8350,838,13.8
+2022,Jharkhand,20,Road Accidents,5175,3747,3898,75.3
+2022,Karnataka,29,Road Accidents,39765,48154,11705,29.4
+2022,Kerala,32,Road Accidents,43592,49317,4317,9.9
+2022,Ladakh,37,Road Accidents,268,333,66,24.6
+2022,Lakshadweep,31,Road Accidents,4,3,2,50.0
+2022,Madhya Pradesh,23,Road Accidents,51965,51264,13918,26.8
+2022,Maharashtra,27,Road Accidents,30546,23878,15748,51.6
+2022,Manipur,14,Road Accidents,508,817,127,25.0
+2022,Meghalaya,17,Road Accidents,246,310,162,65.9
+2022,Mizoram,15,Road Accidents,71,28,83,116.9
+2022,Nagaland,13,Road Accidents,24,42,22,91.7
+2022,Odisha,21,Road Accidents,11663,10269,5470,46.9
+2022,Puducherry,34,Road Accidents,1181,1282,181,15.3
+2022,Punjab,3,Road Accidents,6122,3372,4688,76.6
+2022,Rajasthan,8,Road Accidents,23620,22249,11103,47.0
+2022,Sikkim,11,Road Accidents,199,371,98,49.2
+2022,Tamil Nadu,33,Road Accidents,64105,67703,17884,27.9
+2022,Telangana,36,Road Accidents,21619,20209,7559,35.0
+2022,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,175,257,80,45.7
+2022,Tripura,16,Road Accidents,575,541,241,41.9
+2022,Uttar Pradesh,9,Road Accidents,36875,21696,24109,65.4
+2022,Uttarakhand,5,Road Accidents,1674,1613,1042,62.2
+2022,West Bengal,19,Road Accidents,10635,8124,5788,54.4
+2024,Andaman And Nicobar Islands,35,Road Accidents,27,28,31,114.8
+2024,Andhra Pradesh,28,Road Accidents,19557,19894,8346,42.7
+2024,Arunachal Pradesh,12,Road Accidents,234,183,158,67.5
+2024,Assam,18,Road Accidents,7848,7133,3351,42.7
+2024,Bihar,10,Road Accidents,11528,6600,9218,80.0
+2024,Chandigarh,4,Road Accidents,340,256,126,37.1
+2024,Chhattisgarh,22,Road Accidents,14861,12400,7059,47.5
+2024,Delhi,7,Road Accidents,11146,9436,3102,27.8
+2024,Goa,30,Road Accidents,2682,1047,289,10.8
+2024,Gujarat,24,Road Accidents,15588,14940,7717,49.5
+2024,Haryana,6,Road Accidents,10569,8438,5187,49.1
+2024,Himachal Pradesh,2,Road Accidents,2158,3207,864,40.0
+2024,Jammu And Kashmir,1,Road Accidents,5777,7846,840,14.5
+2024,Jharkhand,20,Road Accidents,5196,3266,4114,79.2
+2024,Karnataka,29,Road Accidents,43062,52591,12390,28.8
+2024,Kerala,32,Road Accidents,46591,54811,3876,8.3
+2024,Ladakh,37,Road Accidents,264,286,61,23.1
+2024,Lakshadweep,31,Road Accidents,0,0,0,
+2024,Madhya Pradesh,23,Road Accidents,55711,56271,15152,27.2
+2024,Maharashtra,27,Road Accidents,30635,24849,15888,51.9
+2024,Manipur,14,Road Accidents,299,462,72,24.1
+2024,Meghalaya,17,Road Accidents,268,226,196,73.1
+2024,Mizoram,15,Road Accidents,69,64,73,105.8
+2024,Nagaland,13,Road Accidents,23,27,25,108.7
+2024,Odisha,21,Road Accidents,12375,10770,6142,49.6
+2024,Puducherry,34,Road Accidents,1431,1620,158,11.0
+2024,Punjab,3,Road Accidents,6166,3407,4936,80.1
+2024,Rajasthan,8,Road Accidents,24119,22374,11444,47.4
+2024,Sikkim,11,Road Accidents,146,245,71,48.6
+2024,Tamil Nadu,33,Road Accidents,67526,71493,18449,27.3
+2024,Telangana,36,Road Accidents,25986,23658,7949,30.6
+2024,The Dadra And Nagar Haveli And Daman And Diu,38,Road Accidents,144,121,93,64.6
+2024,Tripura,16,Road Accidents,578,622,226,39.1
+2024,Uttar Pradesh,9,Road Accidents,38417,25437,22923,59.7
+2024,Uttarakhand,5,Road Accidents,1746,1533,1082,62.0
+2024,West Bengal,19,Road Accidents,10643,7670,5148,48.4
